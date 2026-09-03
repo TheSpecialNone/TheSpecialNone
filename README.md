@@ -1,18 +1,3 @@
-<!--
-  GITHUB PROFILE README for TheSpecialNone
-  ------------------------------------------------
-  HOW TO USE THIS FILE:
-  1. Create a new GitHub repo named EXACTLY: TheSpecialNone
-     (must match your username exactly, all lowercase/uppercase as-is)
-  2. Make it PUBLIC.
-  3. Replace the auto-generated README.md in that repo with this file's content.
-  4. Swap out the banner image URL below with your own (upload an image to
-     an "assets" folder in this same repo, then link to it, or host it
-     elsewhere like Imgur/Discord CDN).
-  5. Edit the bio/links sections to match you, placeholders are marked
-     with [ ] brackets below.
--->
-
 <p align="center">
   <img src="https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=TheSpecialNone" alt="Banner" width="100%">
 </p>
@@ -39,15 +24,15 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
 - Building and maintaining Roblox games under Spec Interactive
 - Writing Python for scripts and tools
 - Building small web tools and plugins with JavaScript
-- Contact: **[email or preferred contact]**
+- Contact: **spvcta on Discord**
 
 ## Featured Projects
 | Project | Description |
 |---|---|
 | 🎮 [Volta Blox League](https://www.roblox.com/games/74155155335026/Volta-Blox-League) | My Roblox game, 22k+ visits and counting |
-| 🔗 [VBL](https://github.com/TheSpecialNone/VBL) | [one-line description] |
-| 🔗 [paintdotnet-rpc](https://github.com/TheSpecialNone/paintdotnet-rpc) | Discord Rich Presence for Paint.NET |
-| 🔗 [donations](https://github.com/TheSpecialNone/donations) | [one-line description] |
+| 🔗 [VBL](https://github.com/TheSpecialNone/VBL) | The bot which I developed for Volta Blox League |
+| 🔗 [paintdotnet-rpc](https://github.com/TheSpecialNone/paintdotnet-rpc) | Discord Rich Presence for Paint.NET revamped |
+| 🔗 [donations](https://github.com/TheSpecialNone/donations) | A simple donations website I made |
 
 ## Skills
 
