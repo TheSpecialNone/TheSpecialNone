@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://ibb.co/bggGvst6" alt="Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2c2d72,100:5865F2&height=250&section=header&text=TheSpecialNone&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Lua%20%26%20Python%20Developer%20%7C%20Roblox%20Game%20Dev&descAlignY=58&descSize=20&animation=fadeIn" alt="Banner" width="100%">
 </p>
-
 <h1 align="center">Hey, I'm TheSpecialNone</h1>
 <h3 align="center">JavaScript, Lua & Python developer. I script games on Roblox, and dabble in web dev on the side.</h3>
-
 <p align="center">
   <a href="https://x.com/TheSpecialNone" target="_blank">
     <img src="https://img.shields.io/badge/@TheSpecialNone-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
@@ -13,19 +11,14 @@
     <img src="https://img.shields.io/badge/Roblox_Profile-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
   </a>
 </p>
-
 <br>
-
 I mostly work in Lua, building Roblox experiences under my own group, **[Spec Interactive](https://www.roblox.com/communities/35995419/Spec-Interactive#!/about)**. Outside of that, I write Python for scripts and tools, and occasionally build small things with JavaScript and HTML.
-
 My main project right now is **Volta Blox League**, which has passed **22k+ visits** on Roblox.
-
 ## What I'm into
 - Building and maintaining Roblox games under Spec Interactive
 - Writing Python for scripts and tools
 - Building small web tools and plugins with JavaScript
 - Contact: **spvcta on Discord**
-
 ## Featured Projects
 | Project | Description |
 |---|---|
@@ -33,9 +26,7 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
 | 🔗 [VBL](https://github.com/TheSpecialNone/VBL) | The bot which I developed for Volta Blox League |
 | 🔗 [paintdotnet-rpc](https://github.com/TheSpecialNone/paintdotnet-rpc) | Discord Rich Presence for Paint.NET revamped |
 | 🔗 [donations](https://github.com/TheSpecialNone/donations) | A simple donations website I made |
-
 ## Skills
-
 **Languages, Frameworks & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
@@ -49,30 +40,25 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
 </p>
-
 **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 </p>
-
 **Cloud Services**
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
 </p>
-
 **Game Engines**
 <p align="left">
   <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white">
 </p>
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSpecialNone&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpecialNone&theme=dark" alt="GitHub Streak" />
 </p>
