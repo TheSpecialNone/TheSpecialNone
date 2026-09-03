@@ -70,7 +70,8 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSpecialNone&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSpecialNone&show_icons=true&theme=dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpecialNone&theme=dark" height="180"/>
 </p>
 
 <p align="center">
