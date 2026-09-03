@@ -22,7 +22,6 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
 
 ## What I'm into
 - Building and maintaining Roblox games under Spec Interactive
-- Writing Python for scripts and tools
 - Building small web tools and plugins with CSS and HTML
 
 ## Featured Projects
