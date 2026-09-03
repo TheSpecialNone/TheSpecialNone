@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hey, I'm TheSpecialNone
+  Hey, I'm TheSpecialNone!
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40">
 </h1>
 <p align="center"><i>/ðə ˈspɛʃ.əl nʌn/</i></p>
