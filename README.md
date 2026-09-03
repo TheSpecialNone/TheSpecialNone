@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I'm TheSpecialNone</h1>
-<h3 align="center">Lua & Python developer. I build games and tools for Roblox, and dabble in web dev on the side.</h3>
+<h3 align="center">JavaScript, Lua & Python developer. I script games on Roblox, and dabble in web dev on the side.</h3>
 
 <p align="center">
   <a href="https://x.com/TheSpecialNone" target="_blank">
