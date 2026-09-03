@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hey, I'm TheSpecialNone
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="👋" width="40" height="40">
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="👋" width="50" height="50">
 </h1>
 <p align="center"><i>/ðə ˈspɛʃ.əl nʌn/</i></p>
 <h3 align="center">Hey! I'm a JavaScript, Lua & Python dev coding Roblox experiences and building web projects.</h3>
