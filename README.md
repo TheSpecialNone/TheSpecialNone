@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey, I'm TheSpecialNone</h1>
 <p align="center"><i>/ðə ˈspɛʃ.əl nʌn/</i></p>
-<h3 align="center">JavaScript, Lua & Python developer. I script games on Roblox, and dabble in web dev on the side.</h3>
+<h3 align="center">Hey! I'm a JavaScript, Lua & Python dev coding Roblox games and building web projects.</h3>
 
 <p align="center">
   <a href="https://x.com/TheSpecialNone" target="_blank"><img src="https://img.shields.io/badge/@TheSpecialNone-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
