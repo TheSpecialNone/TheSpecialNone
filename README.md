@@ -23,8 +23,7 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
 ## What I'm into
 - Building and maintaining Roblox games under Spec Interactive
 - Writing Python for scripts and tools
-- Building small web tools and plugins with JavaScript
-- Contact: **spvcta on Discord**
+- Building small web tools and plugins with CSS and HTML
 
 ## Featured Projects
 | Project | Description |
@@ -42,6 +41,7 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white">
