@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hey, I'm TheSpecialNone!
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/Pr47h4m/Pr47h4m/main/wave.gif" width="40px">
 </h1>
 <p align="center"><i>/ðə ˈspɛʃ.əl nʌn/</i></p>
 <h3 align="center">Hey! I'm a JavaScript, Lua & Python dev coding Roblox experiences and building web projects.</h3>
