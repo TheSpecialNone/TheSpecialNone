@@ -26,8 +26,8 @@ My biggest project was **[Volta Blox League](https://www.roblox.com/games/741551
 |---|---|
 | 🎮 [Volta Blox League](https://www.roblox.com/games/74155155335026/Volta-Blox-League) | My Roblox game, 22k+ visits and counting |
 | 🔗 [VBL](https://github.com/TheSpecialNone/VBL) | The bot which I developed for Volta Blox League |
-| 🔗 [paintdotnet-rpc](https://github.com/TheSpecialNone/paintdotnet-rpc) | Discord Rich Presence for Paint.NET revamped |
 | 🔗 [donations](https://github.com/TheSpecialNone/donations) | A simple donations website I made |
+| 🔗 [paintdotnet-rpc](https://github.com/TheSpecialNone/paintdotnet-rpc) | Discord Rich Presence for Paint.NET revamped |
 
 ## Skills
 
