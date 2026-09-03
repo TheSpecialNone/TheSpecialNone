@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2c2d72,100:5865F2&height=250&section=header&text=TheSpecialNone&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Lua%20%26%20Python%20Developer%20%7C%20Roblox%20Game%20Dev&descAlignY=58&descSize=20&animation=fadeIn" alt="Banner" width="100%">
+  <img src="https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=TheSpecialNone" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hey, I'm TheSpecialNone</h1>
 <h3 align="center">JavaScript, Lua & Python developer. I script games on Roblox, and dabble in web dev on the side.</h3>
