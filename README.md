@@ -18,7 +18,7 @@ I mostly work in Lua, building Roblox experiences under my own group, **[Spec In
 My biggest project was **[Volta Blox League](https://www.roblox.com/games/74155155335026/Volta-Blox-League)**, which has passed **22k+ visits** on Roblox.
 
 ## What I'm into
-- Building and maintaining Roblox games under Spec Interactive
+- Building and maintaining Roblox experiences under Spec Interactive
 - Building small web tools and plugins with CSS and HTML
 
 ## Featured Projects
