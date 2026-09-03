@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I'm TheSpecialNone</h1>
+<p align="center"><i>/ðə ˈspɛʃ.əl nʌn/</i></p>
 <h3 align="center">JavaScript, Lua & Python developer. I script games on Roblox, and dabble in web dev on the side.</h3>
 
 <p align="center">
