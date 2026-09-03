@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=TheSpecialNone" alt="Banner" width="100%">
+  <img src="https://ibb.co/bggGvst6" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm TheSpecialNone</h1>
