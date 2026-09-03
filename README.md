@@ -7,12 +7,8 @@
 <h3 align="center">JavaScript, Lua & Python developer. I script games on Roblox, and dabble in web dev on the side.</h3>
 
 <p align="center">
-  <a href="https://x.com/TheSpecialNone" target="_blank">
-    <img src="https://img.shields.io/badge/@TheSpecialNone-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.roblox.com/users/902603595/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox_Profile-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
-  </a>
+  <a href="https://x.com/TheSpecialNone" target="_blank"><img src="https://img.shields.io/badge/@TheSpecialNone-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.roblox.com/users/902603595/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox_Profile-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"></a>
 </p>
 
 <br>
