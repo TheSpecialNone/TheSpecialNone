@@ -73,6 +73,3 @@ My main project right now is **Volta Blox League**, which has passed **22k+ visi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpecialNone&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpecialNone&theme=dark" alt="GitHub Streak" />
-</p>
