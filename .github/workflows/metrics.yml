@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          theme: github-dark
+          config_presets: github-dark
           base: header
           plugin_lines: yes
           plugin_traffic: yes
